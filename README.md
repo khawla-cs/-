@@ -43,7 +43,7 @@ source ~/catkin_ws/devel/setup.bash
 
 once you have run this command you can use your custom ROS code
 
-last thing here is to run ``` gedit ~/ .bashrc``` then this window will appears
+last thing here is to run ``` gedit ~/.bashrc``` then this window will appears
 
 ![Screenshot 2024-07-10 002846](https://github.com/khawla-cs/-/assets/173630971/310c014d-27ef-498f-a4f2-abb4945449ca)
 
